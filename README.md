@@ -1,4 +1,4 @@
-# BMIS 235 · HTML-1 · Styling: Hello World
+# BMIS 235 · HTML-1 · Styling: Everything Penguins
 
 **Name:** Chris Niblock
 **GU username:** cniblock
